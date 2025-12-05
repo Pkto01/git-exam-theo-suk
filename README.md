@@ -8,6 +8,8 @@ La première est l’affichage de l’URL visitée par l’utilisateur, dans la 
 
 Chaque exercice peut être fait indépendamment.
 
+J'ai faim.
+
 ### Etat inital du dépôt
 ```mermaid
 ---

@@ -123,3 +123,5 @@ Vous devez :
 2. Expliquer la différence entre les deux commandes.
 
 git revert crée un nouveau commit qui annule les modifications apportées par un commit précédent, alors que git reset revient en arrière, comme si les commits suivants n'avaient jamais existé.
+
+j'ai choisi git revert car cela permet de conserver l'historique des modifications tout en annulant les changements non voulut, ce qui est important pour garder une trace de toutes modifications quand on travaille en équipe.
